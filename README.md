@@ -5,7 +5,7 @@
 ![Language](https://img.shields.io/badge/Language-Python-yellow)
 
 ##  Project Overview
-**Group 23** This project performs a comprehensive **Multivariate Statistical Analysis** on the Dry Bean Dataset. The primary objective is to classify and discriminate seven registered dry bean varieties based on 16 quantitative morphological features (dimensions and shape forms) using various statistical techniques.
+ This project performs a comprehensive **Multivariate Statistical Analysis** on the Dry Bean Dataset. The primary objective is to classify and discriminate seven registered dry bean varieties based on 16 quantitative morphological features (dimensions and shape forms) using various statistical techniques.
 
 The study aims to answer the research question: *Can we accurately distinguish bean species solely based on their numerical geometric features?*
 
